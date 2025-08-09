@@ -15,4 +15,3 @@ toco para que los demás lo adivinen.
   <li>Luego de jugar se reuniciara el jugo, haciendotelo saber en un mensaje de alerta</li>
 </ul>
 
-<img src ="imagenEntrada.jpeg">
